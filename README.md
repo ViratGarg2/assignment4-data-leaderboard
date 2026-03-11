@@ -57,6 +57,7 @@ In your pull request description, you should include:
 | Jack Hsieh |            3.7464 | [Wandb](https://wandb.ai/jackellishsieh-stanford-university/cs336-assignment4/runs/zemxn08s?nw=nwuserjackellishsieh)     |                           |
 | Arya Bakhtiar |            3.7494 | [Wandb](https://drive.google.com/file/d/1AK2mqNKR_x0DeyoJyqZjI9kVYaUKecTe/view?usp=drive_link)     |       
 | Angela Liu | 3.768 | [Wandb](https://api.wandb.ai/links/aliu917/1oisofti) | |
+| Virat Garg | 3.805 | [Wandb](https://wandb.ai/gargvirat5-iiit-hyderabad/cs336-data/runs/s1ml9n3n?nw=nwusergargvirat5) | |
 | Joe Li | 3.88 | [Wandb](https://api.wandb.ai/links/jli505/iribws78) | |
 | Shiny Weng | 3.90 | [Wandb](https://api.wandb.ai/links/shinyweng-stanford-university/2mr0dpiv) | |
 | Theodora Worledge | 3.91 | [Wandb](https://wandb.ai/teddiw/cs336-data?nw=nwuserteddiw) | |
